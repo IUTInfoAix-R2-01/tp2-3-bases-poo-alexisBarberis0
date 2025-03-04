@@ -1,4 +1,4 @@
-
+package Personne;
 public class TestPersonne {
 	public static void main(String[] args) {
 		Personne P1 = new Personne("Agostinelli","Laurence");

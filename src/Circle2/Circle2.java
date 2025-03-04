@@ -1,3 +1,4 @@
+package Circle2;
 
 public class Circle2 {
 	private double radius;
